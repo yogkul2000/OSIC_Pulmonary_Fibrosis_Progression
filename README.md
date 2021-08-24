@@ -1,7 +1,7 @@
 # OSIC-Pulmonary-Fibrosis-Competition
--My score = -6.92 , First position score = -6.8305
--https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
--https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data
+- My score = -6.92 , First position score = -6.8305
+- https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
+- https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data
 
 # What is pulmonary fibrosis ? 
 
