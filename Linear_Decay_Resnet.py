@@ -238,12 +238,10 @@ for q in tqdm(range(1, 10)):
         fvc = a * (weeks_true - weeks_true[0]) + fvc_true[0]
         percent = percent_true[0] - a * abs(weeks_true - weeks_true[0])
         m.append(score(fvc_true, fvc, percent))
-    print(np.mean(m))
     metric.append(np.mean(m))
 
 
 q = (np.argmin(metric) + 1)/ 10
-q
 
 
 
